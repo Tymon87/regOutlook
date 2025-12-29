@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.1.0",
+    "@antiadmin/anticaptchaofficial": "^1.0.49",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.19.2",
+    "puppeteer": "^22.15.0",
+    "puppeteer-core": "^22.15.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-with-fingerprints": "^1.6.3"
+  }
+}
